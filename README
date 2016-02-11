@@ -1,0 +1,2 @@
+This is git repo created on Linux.
+The project is about implementing a UNIX SHELL on C. It can be used to run default shell commands as well as some custom commands.
